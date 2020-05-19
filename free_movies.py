@@ -19,7 +19,7 @@ reg = re.findall(res, response) # 返回列表 接口URL
 
 # 画布
 root = tk.Tk()
-root.title('阿亮vip电影播放')
+root.title('嘟嘟VIP影视播放')
 root.geometry('500x250+200+200')
 l1 = tk.Label(root, text="播放接口", font=("Araial", 12))
 l1.grid()
